@@ -1,0 +1,6 @@
+FREE = 0            # ' ' 
+ADJACENT = 1        # ' '  
+INTACT_DECK = 2     # 'O'
+ATTACKED_FREE = 3   # '#'
+ATTACKED_DECK = 4   # 'X'
+DEAD_SHIP = 5       # 'X'
